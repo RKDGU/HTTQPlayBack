@@ -1,5 +1,5 @@
 # HTTQPlayBack
-Glitchhunting and TAS tool for Hype The Time Quest. This tool can record and playback inputs frameperfectly.
+HTTQ PlayBack a tool to live record, edit and playback frameperfect inputs. Useful for Glitchhunting and potential TAS 
 
 Used Librarys:
 https://github.com/GregsStack/InputSimulatorStandard
