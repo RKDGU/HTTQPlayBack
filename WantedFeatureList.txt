@@ -1,0 +1,18 @@
+InputPlayback
+Play
+csv input/output
+Playbackwatching & Editing
+Record
+
+later Features
+HotKeys
+External Stats
+
+AdditionalThingsTool
+CheatBox
+Noclip
+Gravity
+
+Colors
+Orange #FF4000
+DarkRed #9E0000 
