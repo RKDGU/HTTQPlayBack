@@ -1,8 +1,14 @@
+Added Features
 InputPlayback
 Play
 csv input/output
 Playbackwatching & Editing
 Record
+checkbox for changing between gametime and frametime
+
+Implement
+
+sync check+interrupt if desync
 
 later Features
 HotKeys
